@@ -1,0 +1,16 @@
+E:\Tecsup\V-Proyectos\AMM\Lab11\Calculador\Calculator\bin\Debug\Calculator.dll
+E:\Tecsup\V-Proyectos\AMM\Lab11\Calculador\Calculator\bin\Debug\Calculator.pdb
+E:\Tecsup\V-Proyectos\AMM\Lab11\Calculador\Calculator\bin\Debug\Xamarin.Forms.Core.dll
+E:\Tecsup\V-Proyectos\AMM\Lab11\Calculador\Calculator\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Tecsup\V-Proyectos\AMM\Lab11\Calculador\Calculator\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Tecsup\V-Proyectos\AMM\Lab11\Calculador\Calculator\bin\Debug\Xamarin.Forms.Core.pdb
+E:\Tecsup\V-Proyectos\AMM\Lab11\Calculador\Calculator\bin\Debug\Xamarin.Forms.Core.xml
+E:\Tecsup\V-Proyectos\AMM\Lab11\Calculador\Calculator\bin\Debug\Xamarin.Forms.Platform.pdb
+E:\Tecsup\V-Proyectos\AMM\Lab11\Calculador\Calculator\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\Tecsup\V-Proyectos\AMM\Lab11\Calculador\Calculator\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Tecsup\V-Proyectos\AMM\Lab11\Calculador\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+E:\Tecsup\V-Proyectos\AMM\Lab11\Calculador\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\Tecsup\V-Proyectos\AMM\Lab11\Calculador\Calculator\obj\Debug\Calculator.MainPage.xaml.g.cs
+E:\Tecsup\V-Proyectos\AMM\Lab11\Calculador\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+E:\Tecsup\V-Proyectos\AMM\Lab11\Calculador\Calculator\obj\Debug\Calculator.dll
+E:\Tecsup\V-Proyectos\AMM\Lab11\Calculador\Calculator\obj\Debug\Calculator.pdb
